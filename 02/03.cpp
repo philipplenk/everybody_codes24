@@ -10,7 +10,6 @@
 #include <vector>
 
 #include <cstddef>
-#include <cstdint>
 
 struct trie
 {
